@@ -1,0 +1,8 @@
+## **This the staring of my journey in Rust**
+
+## **I've made my first Rust program which is a guessing game.**
+
+### *Here first the program generated a random number from 1 to 100. Then ask the user to input a number.*
+
+### *I've learned to tackled various situations like pasrsing, why to use trim when parsing and use of 'Match' and 'Ordering'.*
+
